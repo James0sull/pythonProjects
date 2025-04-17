@@ -1,7 +1,7 @@
 # Len's Pizza Program
 # You work at Len’s Slice, a new pizza joint in the neighborhood.
 # You are going to organize some of your sales data write a python program with lists.
-# Len_Pizza.py
+# Len_Pizza_Data.py
 
 toppings = ["pepperoni", "pineapple", "cheese", "sausage", "olives", "anchovies", "mushrooms"]
 
